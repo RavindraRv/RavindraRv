@@ -87,3 +87,10 @@ hobbies: ["Acting", "Movies", "Video Editing", "Design", "Comedy"]
 if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 
 <a href="https://www.buymeacoffee.com/RavindraRv" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
+
+
+### 🛠️ My Projects
+<a href="https://github.com/RavindraRv/UVILogger" target="_blank"> <img alt="UVILogger" src="https://cdn-icons-png.flaticon.com/128/3437/3437364.png" height="68" align="left"> <h3>UVILogger</h3> </a>
+<a href="https://github.com/RavindraRv/Bhoomi" target="_blank"> <img alt="BhoomiApp" src="https://cdn-icons-png.flaticon.com/128/2548/2548758.png"  height="68" align="left"> <h3>Bhoomi App</h3></a>
+<a href="https://github.com/RavindraRv/smartwatchsensors" target="_blank"> <img alt="Smartwatch Sensor" src="https://cdn-icons-png.flaticon.com/128/617/617690.png" height="68" align="left"> <h3>Smartwatch Sensors</h3> </a>
+<a href="https://github.com/RavindraRv/QuizApp" target="_blank"> <img alt="Quiz App" src="https://cdn-icons-png.flaticon.com/128/2641/2641457.png" height="68" align="left"> <h3>Quiz app</h3> </a>
