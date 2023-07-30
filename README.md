@@ -83,10 +83,7 @@ hobbies: ["Acting", "Movies", "Video Editing", "Design", "Comedy"]
 
 ---
 
-<h2> 📈 &nbsp;My GitHub History!</h2>
 
-![Snake animation](https://github.com/RavindraRv/RavindraRv/blob/output/github-contribution-grid-snake.svg)
-  
-<p align="left">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
-</p>
+if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
+
+<a href="https://www.buymeacoffee.com/RavindraRv" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
